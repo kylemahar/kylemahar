@@ -1,0 +1,166 @@
+
+
+body
+{
+	width:auto;
+	border:1px solid black;
+	font-size:16px;
+	height:auto;
+	margin-left:100px;
+	margin-right:100px;
+	padding-left:20px;
+	padding-right:20px;
+}
+	
+address
+{
+ font-size:20px;
+text-align:center; 
+}
+ol li{
+ font-size:20px;
+}
+
+h1 
+{
+	background-color:#F5F5F5;
+	padding-left:10px;
+	font-family:Helvetica;
+	text-align:center;
+	letter-spacing:5px;
+	
+}
+h2 
+{
+	background-color:#F5F5F5;
+	font-family:Helvetica;
+	text-align:center;
+	font-size:20px;
+}
+
+header
+{
+	background-color:lightblue;
+	text-align:center;
+}
+
+.headerimage
+{
+	padding:10px;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	font-family:Helvetica;
+	font-size:50px;
+	color:white;
+} 
+
+
+.headercontainer {
+    position: relative;
+    text-align: center;
+    color: white;
+	
+	}
+
+.KylePicture {
+	border: 1px solid #ddd;
+    border-radius: 10px;
+    padding-top: 20px;
+	padding-bottom:20px;
+	padding-right:5px;
+	padding-left:5px;
+    width: 30%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:100px;
+	
+	
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+} 
+
+nav {
+width:750px;
+margin:0 auto;
+list-style:none;
+}
+
+nav ul li {
+    border:1px solid black;
+	display: block;
+	font-size:200px;
+	float: left;
+	height: 40px;
+	line-height: 20px;
+	font-size: 20px;
+	text-align:center;
+	margin: 10px 10px;
+	min-width:120px;
+
+	
+}
+
+nav ul li a {
+   color: black;
+   text-decoration: none;
+   font-size:17px;
+   display:block;
+   text-align: center;
+   padding:14px 16px;
+
+   
+ }
+
+
+nav ul li:hover {
+   background: grey;
+    display: inline-block;
+    list-style-type: none;
+   
+}
+ 
+ .about_me {
+    width: 1085px;
+    height: 100px;
+    padding: 20px;
+    border: 3px solid Black;
+    border-radius: 8px;
+	text-align: center;
+	}
+
+
+section p
+{
+	font-size:18px;
+	line-height:25px;
+	padding-left:10px;
+	padding-top:10px;
+	height:50px;	
+}
+
+
+
+footer
+ {
+	padding:10px;
+	width:auto;
+}
+
+
+footer address
+ {
+   border-top: 2px solid blue;
+   font-size: 17px;
+   letter-spacing:1px;
+   font-style: normal; 
+   font-variant: small-caps; 
+   text-align: center;
+}
